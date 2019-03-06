@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practical 4", "Practical 4\Practical 4.csproj", "{9F83987F-AF1B-4A6E-B5E5-3D0DEE1D7651}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{25DDF6E9-A9FE-4978-AB8E-7844A88BAEEB}"
+	ProjectSection(SolutionItems) = preProject
+		BreadthFirstSearch\BreadthFirstSearch.csproj = BreadthFirstSearch\BreadthFirstSearch.csproj
+		BreadthFirstSearch\QSearch.cs = BreadthFirstSearch\QSearch.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F83987F-AF1B-4A6E-B5E5-3D0DEE1D7651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F83987F-AF1B-4A6E-B5E5-3D0DEE1D7651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F83987F-AF1B-4A6E-B5E5-3D0DEE1D7651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F83987F-AF1B-4A6E-B5E5-3D0DEE1D7651}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {258B2E56-E615-4A79-96E6-6D1B2D4542B6}
+	EndGlobalSection
+EndGlobal
